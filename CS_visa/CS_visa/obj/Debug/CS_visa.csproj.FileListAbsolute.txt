@@ -1,0 +1,13 @@
+C:\Users\Пользователь\Desktop\Михаил\CS_visa\CS_visa\bin\Debug\CS_visa.exe.config
+C:\Users\Пользователь\Desktop\Михаил\CS_visa\CS_visa\bin\Debug\CS_visa.exe
+C:\Users\Пользователь\Desktop\Михаил\CS_visa\CS_visa\bin\Debug\CS_visa.pdb
+C:\Users\Пользователь\Desktop\Михаил\CS_visa\CS_visa\bin\Debug\NationalInstruments.Visa.dll
+C:\Users\Пользователь\Desktop\Михаил\CS_visa\CS_visa\bin\Debug\Ivi.Visa.dll
+C:\Users\Пользователь\Desktop\Михаил\CS_visa\CS_visa\bin\Debug\NationalInstruments.Visa.xml
+C:\Users\Пользователь\Desktop\Михаил\CS_visa\CS_visa\bin\Debug\Ivi.Visa.xml
+C:\Users\Пользователь\Desktop\Михаил\CS_visa\CS_visa\obj\Debug\CS_visa.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\Михаил\CS_visa\CS_visa\obj\Debug\CS_visa.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Михаил\CS_visa\CS_visa\obj\Debug\CS_visa.csproj.CopyComplete
+C:\Users\Пользователь\Desktop\Михаил\CS_visa\CS_visa\obj\Debug\CS_visa.exe
+C:\Users\Пользователь\Desktop\Михаил\CS_visa\CS_visa\obj\Debug\CS_visa.pdb
+C:\Users\Пользователь\Desktop\Михаил\CS_visa\CS_visa\obj\Debug\CS_visa.csproj.ResolveComReference.cache
